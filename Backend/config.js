@@ -1,1 +1,1 @@
-module.exports= JWT_SECRET = "Ameet Secret key";
+module.exports= JWT_SECRET = "Your Secret key";
