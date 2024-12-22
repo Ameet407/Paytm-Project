@@ -129,7 +129,7 @@ Frontend/
 ![Signin Screen](Frontend/src/assets/Signin.png)
 
 
-### Signin Screen
+### Signup Screen
 ![Signup Screen](Frontend/src/assets/Signup.png)
 
 
