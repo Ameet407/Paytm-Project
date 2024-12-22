@@ -1,4 +1,4 @@
-# Paytm Clone
+# Paytm Project
 
 This project is a simplified version of the Paytm application, built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). It allows users to perform basic operations such as account creation, login, checking balance, transferring money, and signing out.
 
